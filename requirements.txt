@@ -1,0 +1,28 @@
+# FastMCP and MCP dependencies
+fastmcp
+mcp
+
+# HTTP client for API calls
+httpx
+
+# HTML processing (for the original server)
+markdownify
+readabilipy
+
+# PDF processing (for resume tool)
+PyPDF2
+
+# Document processing (for resume tool)
+python-docx
+
+# Data validation and settings
+pydantic
+
+# OpenAI (used in original server)
+openai
+
+# Environment variables loading
+python-dotenv
+
+# Tunneling service (optional)
+pyngrok
