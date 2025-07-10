@@ -21,7 +21,7 @@ except ImportError:
     pass
 
 TOKEN = "696969"
-MY_NUMBER = "918287645453"  # Insert your number {91}{Your number}
+MY_NUMBER = ""  # Insert your number {91}{Your number}
 
 # Environment variables for API keys
 CALCOM_API_KEY = os.getenv("CALCOM_API_KEY")
